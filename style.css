@@ -13,6 +13,31 @@ button {
     outline: none!important;
 }
 
+footer
+{
+    background-color: #F3976C;
+}
+.textalign
+{
+    text-align: center;
+    font-size: 150%;
+}
+.textalign1
+{
+    text-align: center;
+    font-size: 150%;
+}
+.textalign2
+{
+    text-align: center;
+    font-size: 100%;
+}
+.textalign3
+{
+    text-align: center;
+    font-size: 150%;
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -748,6 +773,10 @@ h4 {
     margin-top: 50px;
 }
 
+.bgc-atomic-tangerine {
+    background-color: #F3976C;
+}
+
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
@@ -768,14 +797,15 @@ h4 {
 
 .bgc-dark-slate-blue {
     background-color: #364577;
-}
-
-.bgc-atomic-tangerine {
-    background-color: #F3976C;
+    color: #FFFFFF;
 }
 
 .tc-white {
     color: #F3976C!important;
+}
+
+.tc-white1 {
+    background-color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
